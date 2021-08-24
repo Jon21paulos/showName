@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="you_have">You Have:</string>
+    <string name="make_it_rain">Make It Rain</string>
+    <string name="money_value">$0</string>
+    <string name="show_info">Show Info</string>
+    <string name="test">Hellodld</string>
+    <string name="app_info">Get rich, quick!</string>
+</resources>
